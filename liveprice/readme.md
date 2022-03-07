@@ -1,4 +1,5 @@
-#Dependencies 
+Dependencies 
+
 Node, NPM, Vue
 
 vue create liveprice
