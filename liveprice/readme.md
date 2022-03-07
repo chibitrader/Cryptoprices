@@ -1,4 +1,8 @@
-Dependencies Node, NPM, VUE
+#Dependencies 
+Node, NPM, Vue
+
 vue create liveprice
+
 cd liveprice
+
 npm run serve
